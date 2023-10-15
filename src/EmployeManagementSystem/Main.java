@@ -2,7 +2,7 @@ package EmployeManagementSystem;
 
 public class Main {
     public static void main(String[] args) throws Exception {
-     //made by prem....
+     //made by prem
         Class.forName("com.mysql.cj.jdbc.Driver");
 
         EmployeManagement employeManagement = new EmployeManagement();
